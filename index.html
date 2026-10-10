@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>X AI 顶级视效日报</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">VFX <span>Brief</span></div>
+      <div class="sub">X 上高互动 AI 视效 / 短片日报<br/>可查阅任意一天</div>
+      <div class="nav-label">日期</div>
+      <div class="date-list" id="dateList"></div>
+    </aside>
+    <main class="main">
+      <div class="topbar">
+        <div class="hgroup">
+          <h1 id="title">X AI 顶级视效日报</h1>
+          <p id="subtitle">加载中…</p>
+        </div>
+        <div class="controls">
+          <button class="toggle on" id="previewToggle" title="卡片内静音循环预览">预览：开</button>
+          <label class="ctrl">模型
+            <select id="modelFilter"><option>全部模型</option></select>
+          </label>
+          <label class="ctrl">排序
+            <select id="sortFilter">
+              <option value="heat">热度</option>
+              <option value="views">浏览</option>
+              <option value="likes">点赞</option>
+              <option value="time">时间</option>
+            </select>
+          </label>
+          <label class="ctrl">搜索
+            <input id="search" placeholder="标题 / 作者 / 模型 / 提示词"/>
+          </label>
+        </div>
+      </div>
+      <div class="stats" id="stats"></div>
+      <div class="grid" id="grid"></div>
+    </main>
+  </div>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true">
+    <div class="dialog">
+      <div class="dialog-head">
+        <h2 id="modalTitle"></h2>
+        <button class="xbtn" id="modalClose" aria-label="关闭">×</button>
+      </div>
+      <div class="player-wrap">
+        <video id="modalPlayer" controls playsinline></video>
+      </div>
+      <div class="dialog-body">
+        <div id="modalMeta"></div>
+        <div class="kv"><label>视觉内容</label><p id="modalVisual"></p></div>
+        <div class="kv"><label>提示词 · <span id="modalPromptStatus"></span></label><pre id="modalPrompt"></pre></div>
+        <div class="actions">
+          <button class="btn" id="copyPrompt">复制提示词</button>
+          <a class="btn ghost" id="openX" href="#" target="_blank" rel="noopener">在 X 查看</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
