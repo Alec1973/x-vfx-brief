@@ -43,7 +43,7 @@
     renderDates();
     const r = await fetch(`data/${date}.json`);
     state.day = await r.json();
-    $('#title').textContent = `X AI 顶级视效日报 · ${date}`;
+    $('#title').textContent = `Opus 5.5 × Fable 视效日报 · ${date}`;
     $('#subtitle').textContent = `${state.day.window} · 生成于 ${state.day.generated_at}（北京时间）`;
     const models = new Map();
     state.day.items.forEach(it => (it.models||[]).forEach(m => models.set(m, (models.get(m)||0)+1)));
