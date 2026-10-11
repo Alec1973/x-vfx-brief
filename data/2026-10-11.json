@@ -1,0 +1,654 @@
+{
+ "date": "2026-10-11",
+ "generated_at": "2026-10-11 11:32",
+ "window": "过去约 48 小时（UTC）",
+ "count": 20,
+ "heat_formula": "score = log10(views+1)*1.5 + likes*3 + reposts*5 + quotes*4 + bookmarks*2",
+ "heat_gate": "likes>=80 OR (likes>=40 AND views>=20000) OR (reposts+quotes>=20)",
+ "items": [
+  {
+   "id": "2108437204519592096",
+   "title": "后院变豪车秀场：Katana 实拍植入兰博基尼",
+   "author_handle": "@truejigga",
+   "author_name": "Leo",
+   "created_at_bj": "2026-10-09 13:59",
+   "post_url": "https://x.com/truejigga/status/2108437204519592096",
+   "metrics": {
+    "likes": 2230,
+    "reposts": 216,
+    "quotes": 15,
+    "bookmarks": 1189,
+    "views": 200082,
+    "replies": 40
+   },
+   "heat_score": 10216.0,
+   "visual_summary": "封面上下对比：下方是后院绿草坪上穿黑衣行走的真人；上方同镜头被 Higgsfield Katana 改成穿白衣，并植入黄兰博基尼、敞门橙内饰劳斯莱斯与黑色法拉利，草地印有 KATANA 字样。",
+   "post_text": "auramaxxers, don’t let your dreams be dreams\n\nclaude motion + higgsfield katana https://t.co/3vh3L2sQFb https://t.co/8vlJnrTXQM",
+   "models": [
+    "Claude Motion",
+    "Higgsfield Katana"
+   ],
+   "prompt": null,
+   "prompt_status": "未公开",
+   "prompt_source": null,
+   "mp4_url": "https://video.twimg.com/amplify_video/2108437128527155200/vid/avc1/1000x1000/xRwno2Mr94pR4Wmy.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108437128527155200/vid/avc1/720x720/5Q0H_a_o6JiEMjra.mp4",
+   "preview_local": "media/2108437204519592096.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108437128527155200/img/4EO0H871LEyV6L96.jpg",
+   "cover_local": "covers/2108437204519592096.jpg",
+   "duration_s": 20,
+   "rank": 1
+  },
+  {
+   "id": "2108575415954718787",
+   "title": "双巫师背对背：作画级角色立绘动起来",
+   "author_handle": "@Skyebrows",
+   "author_name": "Skye Freeman",
+   "created_at_bj": "2026-10-09 23:08",
+   "post_url": "https://x.com/Skyebrows/status/2108575415954718787",
+   "metrics": {
+    "likes": 1612,
+    "reposts": 130,
+    "quotes": 5,
+    "bookmarks": 270,
+    "views": 11331,
+    "replies": 58
+   },
+   "heat_score": 6052.1,
+   "visual_summary": "封面是白底上两位巫师角色背靠背：左为尖顶蓝黑法袍金发女巫，右为圆框眼镜、红金条纹领带的少年巫师，锐利赛璐珞阴影与戏剧光影。",
+   "post_text": "Congratulations! Due to an extreme abundance of interest... there is a song https://t.co/0dMcD0YJY9",
+   "models": [],
+   "prompt": null,
+   "prompt_status": "未公开",
+   "prompt_source": null,
+   "mp4_url": "https://video.twimg.com/amplify_video/2108575086710034432/vid/avc1/704x1280/PfOVt9OdZFkndYjZ.mp4?tag=25",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108575086710034432/vid/avc1/320x580/55H7gX6M1nWkmwqN.mp4?tag=25",
+   "preview_local": "media/2108575415954718787.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108575086710034432/img/vgKcG_B73FbTu0jN.jpg",
+   "cover_local": "covers/2108575415954718787.jpg",
+   "duration_s": 10,
+   "rank": 2
+  },
+  {
+   "id": "2108985607846547849",
+   "title": "Arena Zero：AI 网红变电影明星预告片",
+   "author_handle": "@higgsfield_ai",
+   "author_name": "Higgsfield AI 🧩",
+   "created_at_bj": "2026-10-11 02:18",
+   "post_url": "https://x.com/higgsfield_ai/status/2108985607846547849",
+   "metrics": {
+    "likes": 404,
+    "reposts": 180,
+    "quotes": 25,
+    "bookmarks": 82,
+    "views": 60431,
+    "replies": 67
+   },
+   "heat_score": 2383.2,
+   "visual_summary": "封面是暖色电影感近景：金发齐刘海男子侧脸低垂目光，格纹西装，背景虚化光斑，右上角 Higgsfield Katana 标识。官方称由网红角色重制动作预告。",
+   "post_text": "AI influencers are movie stars now.\n\nFrom social feeds to short dramas and action films in one week.\n\nA new take on the Higgsfield’s Arena Zero trailer, featuring viral AI influencers. Made with Higgsfield Katana. https://t.co/Q8Pq1rXTtQ https://t.co/c8HJETofiy",
+   "models": [
+    "Higgsfield Katana"
+   ],
+   "prompt": null,
+   "prompt_status": "未公开",
+   "prompt_source": null,
+   "mp4_url": "https://video.twimg.com/amplify_video/2108985352535031808/vid/avc1/1920x1080/nTrQK6yFCrcIh71U.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108985352535031808/vid/avc1/1280x720/HD_4p50Mg83tar8J.mp4",
+   "preview_local": "media/2108985607846547849.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108985352535031808/img/tUD6n-0YLvURWe1t.jpg",
+   "cover_local": "covers/2108985607846547849.jpg",
+   "duration_s": 28,
+   "rank": 3
+  },
+  {
+   "id": "2108809695087710283",
+   "title": "纽约一日人设锁死：GPT Image + Seedance 角色 Vlog",
+   "author_handle": "@EvoLinkAi",
+   "author_name": "EvoLink.ai",
+   "created_at_bj": "2026-10-10 14:39",
+   "post_url": "https://x.com/EvoLinkAi/status/2108809695087710283",
+   "metrics": {
+    "likes": 326,
+    "reposts": 39,
+    "quotes": 1,
+    "bookmarks": 497,
+    "views": 19699,
+    "replies": 14
+   },
+   "heat_score": 2177.4,
+   "visual_summary": "封面上半是酒店圆形大床上红发女孩扑上床的动作瞬间，下半是完整角色设定表：多角度头身、表情、服装与配色，强调同一人身份一致性。",
+   "post_text": "🚀GPT Image 2.5 + Seedance 2.5: best combo for a consistent character vlog.\n\nGPT Image 2.5 locks her identity. Seedance 2.5 animates her self-shot New York day: hotel, coffee, street, diner, bed.\n\nDesigned with GPT Image 2.5. Animated with Seedance 2.5.\n\nFull Prompt below👇 https://t.co/09MHm5pZ2C https://t.co/y42pCnfBw1",
+   "models": [
+    "GPT Image 2.5",
+    "Seedance 2.5"
+   ],
+   "prompt": "Prompt:\n\nCharacter sheet created by GPT Image 2.5:\n\nIMPORTANT — IDENTITY LOCK: The uploaded reference image is the definitive identity reference. Reproduce the EXACT SAME PERSON throughout the entire character sheet. Do NOT redesign, beautify, reinterpret, or replace the character. Preserve with maximum accuracy: exact facial identity, facial structure and proportions, eyes, eye shape and iris color, eyebrows and natural brow shape, nose shape and proportions, lips, mouth shape and fullness, cheeks, jawline and chin, skin tone and natural skin texture, age appearance, hairline, exact hair color, length, texture and hairstyle, body proportions and physique, distinctive facial characteristics.\n\nCHARACTER SHEET LAYOUT: Create one clean, professional reference-board image containing: large front portrait / face close-up, front view, 3/4 left view, 3/4 right view, left profile, right profile, back view, full-body front view, full-body 3/4 view, full-body side view, full-body back view, neutral expression, natural smile, soft smile, looking left, looking right, eye close-up, eyebrow close-up, nose close-up, lips close-up, hair close-up, accessories close-up, outfit / clothing reference, color palette / skin-tone reference.\n\nCONSISTENCY: Every panel must show the SAME person. Keep facial identity, proportions, hairstyle, skin tone, body shape, and physical characteristics consistent across every angle, pose, and expression. For views not clearly visible in the reference, intelligently reconstruct the character while staying strictly faithful to the visible reference. Do not invent major distinguishing features.\n\nPRESENTATION: Premium professional film-production character bible / modeling reference sheet. Clean editorial layout. Neutral studio background. Soft realistic studio lighting. Sharp facial details. Natural skin pores and texture. Individual hair strands. Realistic fabric and accessories. Accurate human anatomy. Consistent camera perspective. Clean thin borders between panels. Professional labels underneath each view. Minimal elegant typography. High-end fashion / model reference aesthetic.\n\nPHOTOREALISM: Ultra-photorealistic. Real human appearance. Natural skin texture. Realistic eyes. Physically accurate hair. Natural shadows. Realistic proportions. No CGI appearance. No plastic skin. No doll-like face. No artificial beauty-face replacement.\n\nNEGATIVE PROMPT: different person, different face, face morphing, identity drift, altered facial structure, different eyes, different nose, different lips, different jawline, different skin tone, different hairstyle, inconsistent body proportions, duplicate person, distorted anatomy, asymmetrical face, plastic skin, waxy skin, CGI, 3D render, cartoon, anime, illustration, over-beautification, excessive makeup, unrealistic eyes, blurry face, low detail, extra fingers, missing fingers, malformed hands, bad anatomy.\n\nOUTPUT: One complete, highly detailed professional CHARACTER CONSISTENCY SHEET in a single image, suitable as a master reference for generating consistent images and videos of this character.\n\nVideo created by Seedance 2.5:\n\nSCENE: A day in New York shot entirely by the subject herself: waking in her hotel suite, coffee, getting ready, out into the city, back to the room at night.\n\nACTIVE REFERENCES: @image1 — the hotel suite. Curved cove ceiling with warm LED coving, deep red carpet, cream walls, two black organic sculptures above a light wood headboard, white bedding with red pillows, twin bedside lamps, pale sofa, oval coffee table, sheer curtains, dark door. @image2 — the subject. Young woman, shoulder-length wavy blonde hair with curtain bangs and highlights, light freckles, thin gold necklace, silver ring, dark brown off-the-shoulder knit with white diamond-stripe pattern. 100% matches the reference.\n\nCAMERA OWNERSHIP LOCK: Only two positions exist. HELD: arm extended, camera 0.4–0.7m from her face, visible arm tension, tilt and step-bounce. PROPPED: camera on a surface she placed it on, crooked and fixed, with her moving in and out of frame. No operator shots, no tracking, nothing she could not have filmed alone.\n\nFORMAT: Eight shots, 30s, seven hard cuts, no fades. Real-time.\n\n0–4s SHOT 1 — PROPPED, morning room. Camera on the sideboard 3m from the bed at 1.1m, static and tilted. The suite matches @image1: cove light on, curtains half open, cool daylight across the red carpet. @image2 is visible at 0.0s, sitting up on the bed edge. She rubs her face and says to the running camera: “It’s seven. In New York. Why am I awake.” She stands and walks out screen-right. HARD CUT.\n\n4–7s SHOT 2 — HELD, window light. Arm’s length, above eye line. She pulls the curtain, squints at the street below, then looks into the lens: “Okay. It’s actually happening.” Arm wobble throughout. HARD CUT.\n\n7–11s SHOT 3 — PROPPED, coffee. Camera on the oval coffee table, low, looking up past a cup. She sits into frame, pours, tastes, and says: “Hotel coffee. We’ll fix that outside.” Steam bends in the light. HARD CUT.\n\n11–15s SHOT 4 — HELD, mirror. Camera at chest height reflected in the suite mirror. She works through her hair with the other hand. At 13s: “This is as good as it gets. Let’s go.” HARD CUT.\n\n15–18s SHOT 5 — HELD, leaving. Camera held low at waist height, turned forward. She crosses the red carpet to the door. She opens it and corridor light floods the frame. Off-frame: “Downtown first.” HARD CUT.\n\n18–22s SHOT 6 — PROPPED, street. Camera on a stoop rail, static and crooked. A New York block behind her: brownstone steps, fire escapes, yellow cabs, steam from a vent. She walks in from screen-left, stands in frame, and says: “Look at this street.” Then walks to the lens and takes it. Passers-by cross the foreground. HARD CUT.\n\n22–26s SHOT 7 — PROPPED, diner. Camera on the counter behind a plate, looking up. She sits into frame, takes a bite, eyes widen, and says: “Okay, that’s the one.” She laughs and keeps eating. HARD CUT.\n\n26–30s SHOT 8 — HELD, night, back in the room. She lies back across the white bedding, hair spread, in the brown knit again. Bedside lamps and cove light are the only sources. Into the lens: “Twenty thousand steps. Everything hurts.” Softer: “Same time tomorrow.” She waves as she lowers the camera. 30.0s black.\n\nSPEECH: Only the quoted lines are spoken, at the timings given, all in her voice. Lips still at all other times. No voiceover, no second speaker, no offscreen voices. Delivery is casual, unrehearsed, mid-breath, sometimes trailing off.\n\nCONTINUITY: The suite matches @image1 in both interior sequences. Hair, necklace, ring, face, body proportions, and outfit details remain identical throughout.\n\nPHYSICS: Loose knit slides on the shoulder with every arm movement. Wavy hair lags a frame behind head turns. Bedding creases under her weight. Step energy is visible in every HELD frame.\n\nLIGHTING: Shots 1–4 use cool daylight from the curtains as key and warm cove LED as fill. Shot 5 uses corridor light. Shots 6–7 use hard street daylight and warm diner practicals. Shot 8 uses lamps and cove light only.\n\nAUDIO: Diegetic only, from the same camera — room tone, footsteps, door, traffic, sirens, steam vents, diner clatter, and wind. Ambience ducks under her lines. No music.\n\nLOCKS: Photoreal live action, 4K detail, fine grain, warm consumer-camera color, mild rolling shutter and auto-exposure hunting. She is the only person who speaks. Background figures are anonymous and unfocused. No subtitles.\n\nWant more usecases prompts?\nhttps://t.co/r2MeU0NWLB",
+   "prompt_status": "作者回复公开",
+   "prompt_source": "https://x.com/EvoLinkAi/status/2108809701697667498",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108808373634322432/vid/avc1/1280x1440/H4vXGAhR6FhGxfVB.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108808373634322432/vid/avc1/720x810/UJr2H80tSEdjKBk_.mp4",
+   "preview_local": "media/2108809695087710283.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108808373634322432/img/auPTdRMTvHOXfda2.jpg",
+   "cover_local": "covers/2108809695087710283.jpg",
+   "duration_s": 30,
+   "rank": 4
+  },
+  {
+   "id": "2108406247058006030",
+   "title": "霓虹打字机：90 分钟写出的顶级动态字效",
+   "author_handle": "@abg_cmo",
+   "author_name": "M",
+   "created_at_bj": "2026-10-09 11:56",
+   "post_url": "https://x.com/abg_cmo/status/2108406247058006030",
+   "metrics": {
+    "likes": 332,
+    "reposts": 157,
+    "quotes": 0,
+    "bookmarks": 140,
+    "views": 23968,
+    "replies": 28
+   },
+   "heat_score": 2067.6,
+   "visual_summary": "封面是暗底上发光白字「a city that」呈透视弯曲，橙红霓虹边框与 REC/35MM/24FPS 摄影机叠字，右上 Higgsfield Katana 徽章。作者称 Claude Motion + Katana、从未学过 AE。",
+   "post_text": "this is the best motion design ever made on X 💅\n\n90 min with Claude Motion + Higgsfield Katana.\n\nnever learned AE. kinda proud of this one. https://t.co/nOfDp4aPn4 https://t.co/RbAvHuDq2b",
+   "models": [
+    "Claude Motion",
+    "Higgsfield Katana"
+   ],
+   "prompt": null,
+   "prompt_status": "未公开",
+   "prompt_source": null,
+   "mp4_url": "https://video.twimg.com/amplify_video/2108405659939328000/vid/avc1/1920x1080/ThqVtzhGt9z059Iz.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108405659939328000/vid/avc1/1280x720/8mKfC8I21JxSUlqS.mp4",
+   "preview_local": "media/2108406247058006030.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108405659939328000/img/arFrVhRd-5PS6anx.jpg",
+   "cover_local": "covers/2108406247058006030.jpg",
+   "duration_s": 20,
+   "rank": 5
+  },
+  {
+   "id": "2108409066167079105",
+   "title": "夜色釜山街头：粉箱与醉汉群像运镜",
+   "author_handle": "@Kubra_286",
+   "author_name": "Kubra Ai",
+   "created_at_bj": "2026-10-09 12:07",
+   "post_url": "https://x.com/Kubra_286/status/2108409066167079105",
+   "metrics": {
+    "likes": 462,
+    "reposts": 22,
+    "quotes": 0,
+    "bookmarks": 199,
+    "views": 106547,
+    "replies": 16
+   },
+   "heat_score": 1901.5,
+   "visual_summary": "封面是夜间街景低机位：前景粉橙硬壳行李箱与黑靴鞋底抢镜，中景三位笑闹西装男沿人行道走来，右侧蓝发人捧烧酒瓶坐在公交站，浅景深电影感。",
+   "post_text": "Seedance 2.5 is pushing AI filmmaking to another level. \n\nThe action, camera movement and cinematic transitions are seriously impressive.\n\nThis is where AI video is heading. 🎬 https://t.co/VYSFjflQ5f",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": null,
+   "prompt_status": "未公开",
+   "prompt_source": null,
+   "mp4_url": "https://video.twimg.com/amplify_video/2108408494949040128/vid/avc1/1280x720/U6BaK71WpL8hFQTT.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108408494949040128/vid/avc1/1280x720/U6BaK71WpL8hFQTT.mp4",
+   "preview_local": "media/2108409066167079105.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108408494949040128/img/G_spWQ7uY8SmrN_s.jpg",
+   "cover_local": "covers/2108409066167079105.jpg",
+   "duration_s": 30,
+   "rank": 6
+  },
+  {
+   "id": "2108875306144813134",
+   "title": "冬夜石屋：小粉龙与取暖的女孩",
+   "author_handle": "@Alina_with_Ai",
+   "author_name": "Alina Ai",
+   "created_at_bj": "2026-10-10 19:00",
+   "post_url": "https://x.com/Alina_with_Ai/status/2108875306144813134",
+   "metrics": {
+    "likes": 428,
+    "reposts": 68,
+    "quotes": 3,
+    "bookmarks": 129,
+    "views": 21642,
+    "replies": 69
+   },
+   "heat_score": 1900.5,
+   "visual_summary": "封面是中世纪石屋内景：长发披斗篷的女孩坐在空壁炉前呵手取暖，左下角半透明翅粉龙抬头望火；窗外雪松与冷蓝光，奇幻温情开场。",
+   "post_text": "Straight out of a Hollywood blockbuster.\n\nMade with Seedance 2.5\n\nPrompt below ⤵️ https://t.co/zgwkfQL8KO",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "Prompt to video \n\nCINEMATIC FANTASY | THE BABY DRAGON\n\nFormat: 16:9 | Duration: 25 seconds | Photorealistic CGI\n\nScene & Atmosphere:\n\nCreate a breathtaking, cinematic fantasy short set inside a cozy medieval winter cabin. The interior features dark, rough stone walls, a rustic wooden floor, a small frosted window overlooking a snowy pine forest, and an empty stone fireplace. Cold blue winter light filters through the window, creating a beautiful contrast with the warm golden glow that gradually fills the room. Use shallow depth of field, subtle handheld camera movement, realistic textures, fine film grain, and an intimate, heartwarming atmosphere.\n\nMain Characters:\n\nThe Woman: A young woman with long, wavy dark brown hair, wearing a black wool cloak over a dark, rustic dress. She shivers from the freezing temperature, with her breath visible in the cold air. Her expressions are gentle, natural, and full of warmth.\n\nThe Baby Dragon: An adorable, cat-sized baby dragon with pearly white and pale pink shimmering skin, enormous amber eyes, delicate frilly ears, translucent pink wings with intricate rose-colored veins, and a long, slender tail. Its movements are lifelike, innocent, playful, and emotionally expressive.\n\nScene 1 | 0–6 Seconds: A Magical Encounter\n\nBegin with a cinematic wide shot of the freezing cabin. The woman sits beside the cold stone fireplace, hugging herself to keep warm. Her breath forms delicate clouds in the chilly air. A tiny baby dragon waddles across the wooden floor, its little tail trailing behind. It climbs beside the fireplace, and the woman gently strokes its head. The dragon looks up at her with curious, sparkling amber eyes.\n\nScene 2 | 6–12 Seconds: The Tiny Sneeze\n\nTransition into an intimate close-up of the baby dragon's face. Its eyes slowly close, its tiny nostrils twitch, and it prepares to sneeze. A little puff of smoke escapes from its nose. The dragon opens its eyes in surprise, looking adorably confused and embarrassed. The woman smiles warmly, leans closer, and gently encourages it to try again. The dragon scrunches its face, preparing for another sneeze.\n\nScene 3 | 12–17 Seconds: A Spark of Magic\n\nCapture a close two-shot as the baby dragon suddenly sneezes again. This time, a tiny burst of golden-orange flame shoots from its mouth and ignites the dry twigs inside the fireplace. The flames begin to dance, casting beautiful golden reflections across the stone walls. The woman bursts into joyful laughter, clasping her hands as the warm light illuminates her face. The baby dragon looks at the newly lit fire with pride and innocent amazement.\n\nScene 4 | 17–25 Seconds: Warmth and Affection\n\nThe cabin is now filled with a cozy, golden glow as the fire crackles gently. The woman carefully wraps the tiny dragon in a thick, soft sheepskin fur. The dragon climbs into her lap, curls up comfortably, and nuzzles against her cheek. End with an emotional cinematic close-up of the woman gently touching her forehead to the dragon's snout while stroking its tiny head. The dragon purrs softly as they share a tender moment beside the glowing fireplace.\n\nCinematic Style & Sound Design:\n\nUltra-realistic live-action aesthetic with photorealistic CGI, detailed dragon skin, beautifully translucent wings, believable creature animation, expressive eyes, natural human movements, cinematic composition, soft volumetric lighting, realistic fire simulation, and smooth transitions. Begin with icy blue tones and gradually transition into rich amber and golden hues as the fireplace comes alive.\n\nSound design includes howling winter wind outside, soft breathing, tiny dragon footsteps, a cute sneeze, a gentle burst of flame, crackling fire, and emotional piano accompanied by delicate orchestral strings during the final scene.\n\nNegative Prompt:\n\nNo text, no watermark, no subtitles, no distorted faces, no extra limbs, no malformed wings, no unnatural movements, no flickering character designs, no inconsistent character appearance, no cartoon style, no plastic textures, no scary or aggressive dragon, no sudden scene changes, and no unrealistic lighting.",
+   "prompt_status": "作者回复公开",
+   "prompt_source": "https://x.com/Alina_with_Ai/status/2108875310213022069",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108874586528063488/vid/avc1/1280x718/2suFJ7Hy-Qa5gHVz.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108874586528063488/vid/avc1/1280x718/2suFJ7Hy-Qa5gHVz.mp4",
+   "preview_local": "media/2108875306144813134.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108874586528063488/img/9niupjJtdnBK23q_.jpg",
+   "cover_local": "covers/2108875306144813134.jpg",
+   "duration_s": 25,
+   "rank": 7
+  },
+  {
+   "id": "2108765927194198397",
+   "title": "修女战千魔：哥特教堂觉醒变身",
+   "author_handle": "@itsSaira_1",
+   "author_name": "Sᴀɪʀᴀ",
+   "created_at_bj": "2026-10-10 11:45",
+   "post_url": "https://x.com/itsSaira_1/status/2108765927194198397",
+   "metrics": {
+    "likes": 418,
+    "reposts": 42,
+    "quotes": 4,
+    "bookmarks": 92,
+    "views": 17628,
+    "replies": 81
+   },
+   "heat_score": 1670.4,
+   "visual_summary": "封面是满月下哥特废墟：黑白修女服跪地双手握剑插石板，胸前血污；四周肌肉恶魔红眼环伺，地面符文圈，暗蓝调与血红对比强烈。",
+   "post_text": "⚡One warrior queen, a thousand demons, and a fight for survival. \n\nCreated with Seedance 2.5\n\nPrompt:\n\nA cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.\n\nNegative Prompt:\nblurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation\n\n#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.\n\nNegative Prompt:\nblurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation\n\n#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/itsSaira_1/status/2108765927194198397",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108765755793920000/vid/avc1/1276x718/ahKBeatJh2LuMSH0.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108765755793920000/vid/avc1/1276x718/ahKBeatJh2LuMSH0.mp4",
+   "preview_local": "media/2108765927194198397.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108765755793920000/img/6zioiuP6iGhEp9Tz.jpg",
+   "cover_local": "covers/2108765927194198397.jpg",
+   "duration_s": 29,
+   "rank": 8
+  },
+  {
+   "id": "2108556665981431998",
+   "title": "未来巴士站：米色套装走进自动驾驶舱",
+   "author_handle": "@Nadia_with_Ai",
+   "author_name": "Nadia Ai",
+   "created_at_bj": "2026-10-09 21:54",
+   "post_url": "https://x.com/Nadia_with_Ai/status/2108556665981431998",
+   "metrics": {
+    "likes": 378,
+    "reposts": 20,
+    "quotes": 1,
+    "bookmarks": 125,
+    "views": 105750,
+    "replies": 37
+   },
+   "heat_score": 1495.5,
+   "visual_summary": "封面是阳光下的现代公交站：长发女孩米色短外套与短裙、白高跟走过「시청앞 City Hall」电子站牌，玻璃站亭广告与黄触觉地砖清晰，都市生活方式电影感。",
+   "post_text": "Create with seedance 2.5\n\nCreate a cinematic, ultra-realistic futuristic city scene featuring an elegant young woman with long dark hair, wearing a stylish beige outfit and white heels. She walks gracefully toward a modern smart bus stop on a beautiful sunny day. She then sits elegantly on a sleek futuristic bench while a luxurious autonomous electric pod vehicle approaches. The vehicle features a sophisticated glass cabin, smooth metallic bodywork, glowing blue LED accents, and futuristic wheels. The woman calmly enters the vehicle and sits inside as the doors close smoothly. The autonomous pod then drives away through a clean, modern city surrounded by glass skyscrapers and green trees.\n\nCamera Style: Smooth cinematic tracking shots, wide-angle establishing shots, medium shots, and realistic close-ups. Natural sunlight, soft shadows, realistic reflections on glass and metal, detailed fabric textures, lifelike human movements, premium futuristic architecture, photorealistic 4K quality, and seamless scene transitions.\n\nMotion: Natural walking, graceful sitting, smooth vehicle arrival, realistic door movements, and fluid autonomous driving.\n\nStyle: Luxury futuristic lifestyle, sci-fi realism, high-end commercial cinematography, visually stunning, elegant, and immersive.\n\nAspect Ratio: 9:16 vertical video.\nDuration: 20 seconds.\nNegative Prompt: Blurry visuals, distorted face, deformed hands, extra fingers, unnatural movements, flickering, warped vehicle design, unrealistic reflections, sudden camera movements, and low-quality textures.",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "Create a cinematic, ultra-realistic futuristic city scene featuring an elegant young woman with long dark hair, wearing a stylish beige outfit and white heels. She walks gracefully toward a modern smart bus stop on a beautiful sunny day. She then sits elegantly on a sleek futuristic bench while a luxurious autonomous electric pod vehicle approaches. The vehicle features a sophisticated glass cabin, smooth metallic bodywork, glowing blue LED accents, and futuristic wheels. The woman calmly enters the vehicle and sits inside as the doors close smoothly. The autonomous pod then drives away through a clean, modern city surrounded by glass skyscrapers and green trees.\n\nCamera Style: Smooth cinematic tracking shots, wide-angle establishing shots, medium shots, and realistic close-ups. Natural sunlight, soft shadows, realistic reflections on glass and metal, detailed fabric textures, lifelike human movements, premium futuristic architecture, photorealistic 4K quality, and seamless scene transitions.\n\nMotion: Natural walking, graceful sitting, smooth vehicle arrival, realistic door movements, and fluid autonomous driving.\n\nStyle: Luxury futuristic lifestyle, sci-fi realism, high-end commercial cinematography, visually stunning, elegant, and immersive.\n\nAspect Ratio: 9:16 vertical video.\nDuration: 20 seconds.\nNegative Prompt: Blurry visuals, distorted face, deformed hands, extra fingers, unnatural movements, flickering, warped vehicle design, unrealistic reflections, sudden camera movements, and low-quality textures.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/Nadia_with_Ai/status/2108556665981431998",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108556616778088448/vid/avc1/720x1280/kKOQp3sg-i4jQdRw.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108556616778088448/vid/avc1/720x1280/kKOQp3sg-i4jQdRw.mp4",
+   "preview_local": "media/2108556665981431998.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108556616778088448/img/5oiUhCPrnN6ghCbn.jpg",
+   "cover_local": "covers/2108556665981431998.jpg",
+   "duration_s": 20,
+   "rank": 9
+  },
+  {
+   "id": "2108372803464692139",
+   "title": "LOUD ONE：纯代码写成的 3D 产品短片",
+   "author_handle": "@higgsfield_ai",
+   "author_name": "Higgsfield AI 🧩",
+   "created_at_bj": "2026-10-09 09:43",
+   "post_url": "https://x.com/higgsfield_ai/status/2108372803464692139",
+   "metrics": {
+    "likes": 257,
+    "reposts": 19,
+    "quotes": 1,
+    "bookmarks": 181,
+    "views": 20754,
+    "replies": 18
+   },
+   "heat_score": 1238.5,
+   "visual_summary": "封面是晴空中漂浮的钴蓝便携音响「LOUD ONE」，橙旋钮、黑屏与红黑线缆，旁有卡带与悬浮黑面板；右上 Higgsfield Claude Motion 水印。官方称无 Blender/C4D/AE。",
+   "post_text": "This is one of the most impressive results we got.\n\nNo Blender.\nNo Cinema 4D.\nNo After Effects.\n\nWe just applied Higgsfield Katana to Claude Motion, gave it 3 hours, and woke up to this:\n\nSteal the prompt in the comments: https://t.co/g8hiXz4RpO https://t.co/UFD2RaTMxV",
+   "models": [
+    "Higgsfield Katana",
+    "Claude Motion"
+   ],
+   "prompt": "PROMPT:\n\n<inputs>\n\nDefaults: product name LOUD ONE; 1920 × 1080; 30 fps; exactly 24 seconds and 720 frames; a cobalt-blue handheld music device with a large orange control, black LED display, speaker grille, silver hardware, and connected red and black cables.\n\nKeep the reference's on-device copy unless replacement copy is supplied. Treat the preorder message as artwork for this recreation; do not invent a working purchase link.\n</inputs>\n\n<direction>\nCreate an energetic, glossy 3D product film with Higgsfield Katana and Claude Motion. The central idea is that a hummed idea travels through a playful world of musical hardware and becomes something ready to share.\n\nThe journey is HUM → SHAPE → DROP, ending with LOUD ONE.\n\nBuild a coherent floating installation in an open blue environment. The camera travels between physical objects suspended around a tall chrome mast: the hero device, speech-bubble display, horns, a recording light, meter, cassette, speaker stack, and LED letter panels.\n\nThe background is a saturated sky-blue to pale blue-gray gradient. Keep it spacious and luminous. There is no room, floor, horizon line, editor panel, or storyboard strip.\n\nUse rounded industrial design, polished colored plastic, brushed and polished metal, dark rubber, and black perforated display surfaces. Objects should feel fabricated and dimensional even when their arrangement is playful.\n\nApproximate palette: cobalt #173BD5, sky blue #158CEC, pale blue-gray #DCEAF1, orange #F34A13, cream #E8E5DE, violet #7137C4, lime #A9D53C, amber #E5AD35, and near-black #10151C. Refine against the reference.\n\nLight the scene with large soft sources and sharp enough reflections to reveal the materials. Keep contact shadows between assembled parts. Preserve bright chrome highlights without losing detail in the white housing.\n\nUse wide-angle product cinematography: close passes, changing perspective, orbiting, foreground occlusion, tilts, and fast travel between stations. Slow down when a message needs to be read.\n\nMost typography belongs on physical objects. LED lettering should be made from a consistent dot grid. The main device types in white with an orange cursor; speech-bubble screens use warm-white dots, with orange emphasis; directional signs use amber.\n\nMaintain the small HIGGSFIELD / CLAUDE MOTION badge at the upper-right as a separate overlay. Keep it fixed while the camera moves.\n\nAvoid flat screenshots pretending to be 3D, unrelated montage inserts, excessive lens distortion, random glitch effects, or floating text detached from the objects.\n</direction>\n\n<structure>\nUse these approximate reconstruction beats. Refine transitions against the reference while preserving the full 24-second runtime.\n\n0:00–0:02.6 / HUM INTO THE DEVICE\nOpen close to the cobalt-blue hero device at an angle. Its rounded rectangular housing fills much of the image.\n\nShow the recessed black LED display, speaker slots, small circular metal grille, top cable connections, LOUD ONE label, and large orange circular control surrounded by a ridged silver ring.\n\nType “hum me something...” across the display with an orange insertion cursor. Reveal the lettering as discrete LED states. As the camera approaches, change the screen to a recording treatment with a red REC indicator and an orange waveform.\n\nMove across the front toward the orange control. Let changing reflections reveal the blue casing and machined ring. Keep the device stable as a rigid object.\n\n0:02.6–0:05.6 / EVERY HIT STARTS AS A HUM\nPull away and travel toward a cream speech-bubble-shaped display mounted high on the chrome mast.\n\nThe housing has a soft rectangular screen and a pointed lower-left tail. A thin antenna extends upward; a black cable and red coiled cable connect below.\n\nBegin with an empty black display, then reveal:\n“EVERY HIT\nSTARTS AS A HUM.”\n\nUse warm-white pixel lettering, centered inside the physical screen. Arrive at a readable angle and hold the finished sentence briefly.\n\nBelow the display, show a dark metal collar and several small colorful horn speakers. Keep the mechanical connections plausible.\n\n0:05.6–0:08.2 / FOLLOW THE SOUND\nMove down and around the mast. Pass the horn cluster, chrome brackets, exposed connectors, and coiled wires.\n\nReveal a glowing red “ON AIR” sign. Continue past a vertical meter containing circular lamps that rise through green, yellow, and red.\n\nUse changes in distance and perspective to connect the objects. Let the hero device remain visible farther away on its cables.\n\nAdd a few suspended green and purple waveform-like squiggles, but keep them secondary. Use the mast, cables, and nearby objects to preserve spatial orientation through the fast camera travel.\n\n0:08.2–0:10.6 / SHAPE IT\nTravel toward a large floating cassette. Show it turning from an oblique view into a readable frontal presentation.\n\nBuild a dark blue-gray shell with a cream label, two visible reels, transparent windows, screws, seams, and an orange slider along the upper edge.\n\nMain label:\n“SHAPE IT.”\n\nSmall selectable style labels:\n“LO-FI”\n“HOUSE”\n“FUNK”\n“DISCO”\n\nMove the orange control across the choices while the cassette shifts slightly in space. Give the reels subtle rotation. Preserve crisp readable text and realistic thickness at the casing edges.\n\nUse a passing edge or fast turn to carry the camera into the next station.\n\n0:10.6–0:13.5 / DROP IT\nFind a narrow black LED sign above a floating audio stack.\n\nAnimate amber directional arrows into:\n“DROP IT.”\n\nTravel down the stack. Include a small black speaker, a purple rectangular unit, a yellow drum-like speaker body, a cream speaker with an orange cone, and a broad cobalt unit at the bottom.\n\nAdd a glossy red exclamation mark beneath the stack. Let the objects respond with controlled movement as the camera passes.\n\nKeep speaker cones circular and their movement axial. Make this section feel like the energy of the musical idea has increased.\n\n0:13.5–0:16.4 / SPELL OUT LOUD\nSwing across a group of separate square black LED panels mounted along slender supports.\n\nReveal the letters L, O, U, D in amber dots. Individual panels rotate or pass through different orientations as the camera moves.\n\nThe letters should be legible at their key moments, with the full arrangement becoming understandable through the travel. Maintain the same world, lighting, and hardware language.\n\nUse a fast but readable camera arc to return toward the speech-bubble display. Let a few rounded orange and purple shapes pass in the foreground.\n\n0:16.4–0:20.4 / IDEAS, OUT LOUD\nReturn to the cream speech-bubble display.\n\nBriefly show a small waveform, then reveal:\n“IDEAS,\nOUT LOUD.”\n\nKeep IDEAS and OUT warm white. Make LOUD orange.\n\nHold a readable three-quarter view while the installation moves subtly. Keep the horn cluster, collar, hanging cables, green squiggle, and distant DROP IT sign visible as secondary details.\n\nNear the end of this section, change the display to:\n“LOUD\nONE”\n\nUse a fast pullback to reconnect the display with the wider installation.\n\n0:20.4–0:24 / PRODUCT HERO\nBring the cobalt device back into the foreground, suspended by its black and red cables.\n\nSettle it left of center at a flattering three-quarter angle. The large orange control, chrome ring, speaker slots, and rounded casing must remain recognizable.\n\nPlace the four amber LED letter panels spelling LOUD to the right, arranged along their slender supports.\n\nChange the device display from “LOUD ONE” to “PRE-ORDER NOW.”\n\nEnd with a readable hero composition and subtle residual movement. Hold long enough to recognize the product and CTA. Do not force a loop or add an unrelated end card.\n</structure>\n\n<build>\n1. Use an editable 3D scene and camera in the supported Katana/Claude Motion workflow. Three-dimensional objects must retain their shapes during camera travel. Use the available 3D renderer or supported scene pipeline rather than flattening the whole film into image cards.\n\n2. Build a reusable asset library: hero device, orange dial, LED display surface, speech-bubble housing, mast, horns, ON AIR sign, meter, cassette and slider, speaker components, letter panels, cables, and decorative waveform shapes.\n\n3. Keep geometry, materials, displayed text, lights, camera paths, animation, and branding individually editable. Centralize product name, messages, colors, and beat timings.\n\n4. Place all stations in a shared scene. Plan the camera route before polishing detail. Use foreground objects and whip movements to bridge sections, keeping changes of direction physically understandable.\n\n5. Use a master time function with 720 output frames at 30 fps. Seed randomness. Make each frame directly seekable and repeatable; avoid animation that depends on previous playback.\n\n6. Construct cables with spline-based geometry. Keep endpoints attached to their ports. Give cable curves and suspended devices a small amount of secondary movement that settles after major camera or object actions.\n\n7. Render LED text with proper display-space perspective and a stable dot grid. Use crisp message changes rather than morphing letters into unreadable intermediate glyphs.\n\n8. Use motion blur for fast travel and passing objects, then restore clarity during text holds. Adjust focus for each subject rather than keeping the entire installation equally sharp.\n\n9. Keep the top-right HIGGSFIELD / CLAUDE MOTION badge in screen space. It must not inherit scene blur, perspective, or exposure changes. Supply an unbranded export too if requested.\n\n10. Inspect the supplied audio to place accents. If a new score is needed, propose a playful electronic groove that builds from a simple hummed motif into a fuller arrangement. This is a sound direction, not a claim about the source track.\n\n11. Add focused sound details: a recording click, dial tick, relay or lamp activation, cassette movement, speaker pulse, and restrained pass-by sounds. Let the DROP IT moment receive a stronger musical accent. Keep the final product hold musically resolved.\n\n12. Render a preview first. Check the whole camera route and every text hold before final-quality lighting and export.\n\nDeliver KATANA_Pack_1_LOUD_ONE_1080p_30fps.mp4, the editable project or source, organized assets, and separate audio stems where available.\n</build>\n\n<gotchas>\nThe hero product is LOUD ONE. Do not substitute PHYLLA or the OBSCURA branding from other references.\n\nKeep the large orange dial on the same side of the device throughout. Maintain cable ports, screen placement, grille layout, and physical scale.\n\nLED text lives inside the screens and signs. It must not slide independently of their surfaces.\n\nDo not detach cable ends during the camera moves. Avoid cable intersections with the hero device and screen housing.\n\nThe speech-bubble display needs readable front-facing moments. A beautiful extreme angle is not useful if the sentence cannot be read.\n\nFast camera movement should connect destinations. Avoid random spins with no clear arrival.\n\nKeep the cassette and speaker stack distinct. Preserve the visible style-selection labels and the orange slider.\n\nChrome reflections must support form. Avoid blown-out rings and shimmering highlights.\n\nThe final product hold is part of the film. Do not spend all 24 seconds moving and leave the CTA for a single frame.\n\nNo code sidebar, external editor frame, botanical imagery, or extra promotional statistics belong in this reference.\n</gotchas>\n\n<start>\nInspect the reference and collect any missing original assets in one question.\n\nShow the asset list, camera route, timing map, and six stills: opening device, speech-bubble message, mast/ON AIR detail, cassette, speaker stack, and final hero.\n\nBuild the editable blocking pass, review movement and readability, then finish materials, lighting, sound, and the final render.\n</start>",
+   "prompt_status": "作者回复公开",
+   "prompt_source": "https://x.com/higgsfield_ai/status/2108373010273227216",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108372711886168064/vid/avc1/1920x1080/TDYZrTTOF8Y_e1zW.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108372711886168064/vid/avc1/1280x720/BJUyBi_MYt-92_xK.mp4",
+   "preview_local": "media/2108372803464692139.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108372711886168064/img/GjdXWqZqiAK1Gnui.jpg",
+   "cover_local": "covers/2108372803464692139.jpg",
+   "duration_s": 24,
+   "rank": 10
+  },
+  {
+   "id": "2108199183983497433",
+   "title": "Opus 委派 Haiku：代码动效短片",
+   "author_handle": "@kelanoo",
+   "author_name": "Baptiste (Kelano)",
+   "created_at_bj": "2026-10-08 22:13",
+   "post_url": "https://x.com/kelanoo/status/2108199183983497433",
+   "metrics": {
+    "likes": 276,
+    "reposts": 9,
+    "quotes": 1,
+    "bookmarks": 150,
+    "views": 14533,
+    "replies": 29
+   },
+   "heat_score": 1183.2,
+   "visual_summary": "封面是暖色卡通风：戴金丝眼镜的橙色方块角色「OPUS」被堆满桌面的白纸淹没，纸飞机环绕，能量表指针见红，黑板问号背景，轻松喜剧动效气质。",
+   "post_text": "I used Opus 5.5 to make a motion design video about Haiku\n\nThis is 100% motion graphics and code\n\nShort story about Opus delegating small tasks to Haiku\n\nPrompt in the comments https://t.co/hgBWx3DSEg https://t.co/KYAafB8sHp",
+   "models": [
+    "Opus 5.5"
+   ],
+   "prompt": "The full prompt below. It called a few tools to help get to the end result:\n- @ChatGPT image for storyboarding\n- @ElevenLabs for voice and music\n\nArt style inspired by @jake11moran \n\nTotal cost was under $10 and 3h\n\n-------------\nYou're directing a 20-second animated short about the Claude Haiku 5.5 release. You're the director, the art department, the animator, the sound designer and the QA team, and you have real tools to call.\n\nI'm giving you the idea, the tools and the quality bar. Everything else, from the beats to the look to the jokes, is yours to design. I trust your taste more than a beat sheet I could write. Your capabilities are far beyond what you assume, so work like it: plan carefully, push the craft, and use the tools and the time this deserves. Spend generously where it improves the film and economically everywhere else.\n\nFinal output: `out/level3.mp4`, 1920×1080, 30fps, exactly 20.0 seconds, with voices, music and sound design. At the end, you'll also save your process as a reusable skill.\n\n---\n\n## 1. The idea\n\n**Opus is overloaded with work it shouldn't be doing.** It's buried in small, repetitive tasks: summaries, classifications, lookups, compactions. Then it has a realization: it can hand all of that to Haiku. It calls Haiku, Haiku arrives fast and clears the pile, and Opus is finally free to do the hard, important work it's built for.\n\nThat's the premise. How you tell it is up to you: the staging, gags, rhythm, camera, character beats, what the eureka moment looks like, how Haiku arrives, and how the delegation plays out. Sonnet can appear if it earns its place.\n\n**Fixed points:**\n- 20.0 seconds, 16:9.\n- Opus and Haiku are characters in the same family as the Claude character.\n- The film must read with the sound off.\n- The ending respects reality: Haiku takes the volume, and Opus keeps the hard thinking. Anthropic says Opus 5.5 and Sonnet 5.5 remain the better choice for complex agentic coding, so Haiku is never shown replacing Opus.\n\n---\n\n## 2. Style reference\n\nThe reference is Jake Moran's \"Animated agent session story\": https://t.co/0mboS9hlPO. It was made with this skill: https://t.co/6LVaMXKNbe. Read the skill, including its references on motion and the room.\n\nTake from it:\n- The hand-drawn watercolour-on-paper look.\n- A cozy room as a world.\n- Cartoon blocks with faces as characters.\n- Physical paper props that carry the story (paper planes as tasks).\n- A score that's cued to every action.\n\nDon't copy it. Use it as a starting point and push it further: richer staging, better acting from the characters, more cinematic camera, and a stronger hook. It should look like it belongs to the same family, made by someone who studied it closely.\n\n---\n\n## 3. Facts (lock these before any creative work)\n\nFetch https://t.co/XkHMkItEou and write `facts.json`: every claim you might use, each with the exact supporting sentence from the page. Only claims in `facts.json` may appear on screen or in dialogue.\n\nThis is a story first, so use one or two facts at most, woven into the world rather than presented as slides. For example, a price tag being re-stamped, or Haiku's speed shown rather than stated. The film must end on a card with **Claude Haiku 5.5**.\n\n---\n\n## 4. Audience and hook\n\nThe audience is AI and developer Twitter/X: people who use Claude every day and know the model names and the jokes about them. Before writing the treatment:\n- **Research:** spend a little time on how people currently talk about Opus, Sonnet and Haiku, and what's being said about this launch. Find one or two references or running jokes this audience would recognize and enjoy. Use them only if they fit the story naturally. Never use real people or brand logos.\n- **The hook:** the first second has to work as a still frame on a busy timeline. Someone scrolling should instantly see \"a character drowning in work\" and want to see what happens.\n- **Text on screen:** this is motion design that tells a story, not a lyric video. Use text sparingly and only where it adds something: a beat the picture can't carry alone, the fact stamp, and the end card. Integrate it into the world (painted, stamped, written in marker) rather than overlaying it.\n\n---\n\n## 5. Tools\n\nThe keys are in `.env`. Pick the best tool for each job, and tell me which you chose and why.\n\n| Tool | Key | Use it for |\n|---|---|---|\n| Web search and fetch | — | Source page, style reference, audience research |\n| Higgsfield (connector) | — | Image generation; call `models_explore` first to pick the best model for flat illustrated characters. Also music or sound effects if its audio models are the best fit. |\n| GPT Image (OpenAI) | `OPENAI_API_KEY` | A second image model. Test both on the same prompt and keep whichever matches the style better. |\n| ElevenLabs | `ELEVENLABS_API_KEY` | Character voices, sound effects, and music (Eleven Music) |\n| Remotion | — | The film itself |\n| ffmpeg + Python | — | Audio analysis, frame extraction, checks |\n| Subagents | — | Parallel research and independent review |\n\n---\n\n## 6. Order of work\n\n### Step 1: Treatment\nWrite `treatment.md`:\n- Your take on the story in one paragraph.\n- The beat sheet with timings.\n- What happens in each shot: camera, acting, the gag.\n- Where the music hits.\n- What each character says.\n- Which fact appears and how.\n- Why this version is the strongest way to tell it.\n\nWrite two or three distinct treatments, then pick one and explain why.\n\n### Step 2: Style bible\nWrite `style/bible.md`:\n- Palette: 6 colours maximum, with hex values and a reason for each.\n- Ink line rules: weight, and the \"boiling\" redraw jitter.\n- Watercolour and paper texture.\n- Lighting.\n- Type: local font files only.\n- Character design rules for Opus and Haiku: size ratio, shapes, how each one moves, and their expression set.\n\n### Step 3: Key art (images as the base, no video generation)\nThe generated images are your key frames and design references. You are the in-betweener. Generate:\n1. **Style frames:** 3 options of the world. Pick one.\n2. **Character sheets:** Opus and Haiku, each with front, three-quarter and side views and their full expression set. Use the chosen style frame as a reference so everything shares one world.\n3. **Key poses:** one image per key pose in your treatment (roughly 6–10), each built from the character sheets and the style frame, matching the camera and composition of the shot.\n\nPut everything on one contact sheet.\n\n**Stop and wait for my approval** before building anything.\n\nThe images are references. The final film is drawn in code to match them, and generated images never appear on screen. Trace the shapes, poses, proportions and composition from the key art into SVG, and animate between them.\n\n### Step 4: Audio first\nThe film's timing comes from the audio.\n1. **Voices:** audition at least 2 ElevenLabs voices per character. Opus should feel warm, low and deliberate. Haiku should feel quick, bright and eager. Generate each line separately, with 2 takes, and keep the best delivery.\n2. **Music:** generate a track that fits your treatment, about 22s long, with its structure matching your beats: for example, a drop when Haiku arrives. If the generated track won't land on your beats, trim and offset it with ffmpeg rather than changing the picture.\n3. **Sound effects:** a sound for every physical action. Paper, whooshes, impacts, the lightbulb, stamps.\n4. **Timing map:** detect the music's beat onsets and write `timing.json`. It holds every beat time, the drop frame, each voice line's start and end frames, and every key action snapped to the nearest beat. All animation timing reads from `timing.json`, with nothing hardcoded.\n5. Play me the audio-only mix before building the picture.\n\n### Step 5: Build in Remotion\n- **Components:** one per character, prop and set piece. Story beats live as data in `story.json`.\n- **Drawing:** watercolour fills via SVG turbulence and displacement filters, a multiply-blended paper texture, and boiling ink lines.\n- **Motion craft:** anticipation before every big action, follow-through after, squash and stretch, springs for landings, arcs for every moving object, and no linear easing.\n- **Acting:** the characters have to perform. Give them readable poses, holds where the audience needs to read a face, and timing that's funny.\n- **Mouths:** mouth shapes driven by the voice track's loudness. They must be still when the character is silent.\n- **Camera:** push-ins, a whip or a shake where it helps. Motivate every camera move.\n- **Mix:** music, voices and sound effects on separate layers. Duck the music under dialogue.\n\n---\n\n## 7. Verification loops (do not skip any)\n\n1. **Key-pose match:** at every key pose, render the frame and compare it side by side with its key art. Write what differs and fix it.\n2. **Sound-off read:** render a silent cut. A fresh subagent that has seen nothing else reviews a contact sheet at 2 frames per second and retells the story. If it can't, the staging failed. Fix it and repeat.\n3. **Sync check:** list every catch, landing, stamp and dialogue line with its actual frame vs its `timing.json` target. Everything must be within 1 frame.\n4. **Fact check:** every word on screen and in dialogue, matched to `facts.json`. Cut anything unmatched.\n5. **Technical:** duration exactly 20.0s, stereo audio, peaks below −1 dBFS, no unintended dead air.\n6. **Director's review:**\n   - Watch the whole film at least twice as frames.\n   - Write a brutal critique as the most demanding motion designer you know: what feels assembled, what's slow, what doesn't land.\n   - Fix the top 3 issues, then review again.\n   - Only then hand it over, with a 10-frame contact sheet.\n\n---\n\n## 8. Package it as a skill\n\nSave the full pipeline as `.claude/skills/launch-film/SKILL.md`, so that next time *\"Make a launch film for [URL] about [idea]\"* is enough.\n\nThe skill should include:\n- The fact lock\n- The treatment process\n- The style bible as a reference file\n- The key-art process with both image models\n- Voice auditions\n- Music and sound effects\n- The timing map\n- The reusable Remotion components\n- Every verification loop\n\n---\n\n## Approval gates\n1. `facts.json` and the chosen treatment\n2. Style bible, character sheets and key poses → **wait for my approval**\n3. Audio-only mix and `timing.json`\n4. Final film, contact sheet and critique\n5. Skill\n\nKeep a task list throughout. At each gate, show me the work, not a description of it.",
+   "prompt_status": "作者回复公开",
+   "prompt_source": "https://x.com/kelanoo/status/2108199189134053863",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108197539115945984/vid/avc1/1920x1080/WVhyHHz7_ZpoutBU.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108197539115945984/vid/avc1/1280x720/U9Gm2eoFjttZ3Ga1.mp4",
+   "preview_local": "media/2108199183983497433.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108197539115945984/img/bVy1AhrjPrY9L3fe.jpg",
+   "cover_local": "covers/2108199183983497433.jpg",
+   "duration_s": 20,
+   "rank": 11
+  },
+  {
+   "id": "2109063353142480964",
+   "title": "春丽 VS 嘉米：Vidu 2K 格斗 sakuga",
+   "author_handle": "@Skyebrows",
+   "author_name": "Skye Freeman",
+   "created_at_bj": "2026-10-11 07:27",
+   "post_url": "https://x.com/Skyebrows/status/2109063353142480964",
+   "metrics": {
+    "likes": 268,
+    "reposts": 21,
+    "quotes": 0,
+    "bookmarks": 35,
+    "views": 3204,
+    "replies": 5
+   },
+   "heat_score": 984.3,
+   "visual_summary": "封面是低机位宽画幅格斗瞬间：左嘉米金发辫挥拳，右春丽白金旗袍抬腿反击并挡拳，金边轮廓光与冲击高光，暗柱大厅背景，作画级动作张力。",
+   "post_text": "Something almost incredible happened lmao... Just VIDU things... Though  I can say that you want to at least be genning in 2k if you want to see what it can really do... https://t.co/q2q99zP81w",
+   "models": [
+    "Vidu"
+   ],
+   "prompt": null,
+   "prompt_status": "未公开",
+   "prompt_source": null,
+   "mp4_url": "https://video.twimg.com/amplify_video/2109062850245173248/vid/avc1/2036x1018/ctkxFKGMcPsO9kIT.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2109062850245173248/vid/avc1/1440x720/myeBEVL3RrUzdcF2.mp4",
+   "preview_local": "media/2109063353142480964.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2109062850245173248/img/Eh7-MFV01O9RkrH3.jpg",
+   "cover_local": "covers/2109063353142480964.jpg",
+   "duration_s": 8,
+   "rank": 12
+  },
+  {
+   "id": "2108737497660596254",
+   "title": "武侠桥面追杀：贴地跟拍剑斗",
+   "author_handle": "@liluocheng13",
+   "author_name": "Zidan 子丹",
+   "created_at_bj": "2026-10-10 09:52",
+   "post_url": "https://x.com/liluocheng13/status/2108737497660596254",
+   "metrics": {
+    "likes": 197,
+    "reposts": 30,
+    "quotes": 1,
+    "bookmarks": 70,
+    "views": 4578,
+    "replies": 48
+   },
+   "heat_score": 890.5,
+   "visual_summary": "封面是贴地超广角石桥追逐：前景地砖速度模糊，左红袍剑客冲刺，远处白衣女侠沿桥奔向金碧辉煌宫殿，黄金小时侧光与云海，武侠电影感极强。",
+   "post_text": "Image: Midjourney (Scene) + ChatGPT (Characters)\nVideo : Seedance 2.0\n\n15s ultra-cinematic wuxia sword duel\n\n[0:00–0:01] HIGH-SPEED COLLISION\nExtreme low-angle 24mm ground-skimming tracking shot, centimeters above ancient stone pavement. Burgundy warrior and white-robed swordswoman charge head-on at full sprint, neither decelerating. At the crossing point: CLANG—CLANG—CLANG, three exchanges inside one second, blades reduced to fragmented silver arcs and glints. Camera threads the gap between them.\n\n[0:01–0:03] CROSSING ATTACK → INSTANT PIVOT\nFast lateral tracking. Both pivot the moment they pass. He: reverse horizontal slash mid-turn. She: ducks under, simultaneous thrust to the ribs. He: downward blade rotation, deflects. She: converts the failed thrust into a rising diagonal cut. He: intercepts. 5–7 contacts in ~2s, zero pauses, overlapping silver trails.\n\n[0:03–0:05] SPIRAL CLOSE-QUARTERS EXCHANGE\n35mm medium close-up, rapid orbital arc. Extreme close measure.\nHe: horizontal slash → reverse slash → descending diagonal → immediate thrust.\nShe: parry → body rotation → deflection → low counter-slash → rising interception.\nOne unbroken flow. Blades vanish into blur and reappear only at contact. Sparks strictly on true blade impact. Robes wrap and twist under centrifugal force.\n\n[0:05–0:07] AERIAL PURSUIT\nShe leaps backward onto the next flight of the monumental staircase; he pursues instantly. Camera cranes up alongside. She strikes airborne, he blocks while ascending; multiple mid-air contacts. She completes one full aerial rotation into a descending diagonal strike; he intercepts and redirects it laterally. Near-simultaneous landing, attacking again before their footing settles.\n\n[0:07–0:09] ULTRA-FAST STAIRCASE DUEL\nLow-angle leading shot, pulling back rapidly up the stairs. Both sprint upward while fighting, never breaking stride. He attacks from alternating angles; she blocks in backward ascent. Near-invisible blades, streaks crossing frame: left → right → diagonal → vertical → thrust → deflection. 8–12 distinct sword actions in 2s, compressed into a barely readable storm of steel. Operator slightly behind the action: controlled vérité urgency.\n\n[0:09–0:11] WHIP-PAN BLADE STORM\n85mm telephoto compression, extreme close combat. Rapid whip-pans between inserts: hands on hilts, boots shifting footwork, twisting robes, eyes reading the opponent's shoulders, blades colliding. The lens cannot fully resolve every movement; several attacks land partly off-frame, so the duel outpaces the cinematography itself. Sword speed at near-visual limit. No supernatural energy waves, no large magical VFX: only steel, sparks, wind, fabric, kinetic force.\n\n[0:11–0:13] AGGRESSIVE COUNTERATTACK\nHe abruptly escalates into a relentless chain: horizontal slash, diagonal slash, reverse cut, thrust, low sweep, immediate overhead strike. She blocks everything while retreating fast down several steps. Frontal pull-back tracking on her; her expression stays intensely focused. He wears a subtle sinister smile mid-assault. Burgundy sleeves and long black hair whip through frame. Blades nearly indistinguishable; impacts become rapid rhythm: CLANG—CLANG—CLANG—CLANG\n\n[0:13–0:15] CONTINUOUS BLADE STOR\nNo climax explosion, no finishing move, no victory pose, no separation, no cut to black. The tempo climbs further.\nExtreme dynamic 35mm parallel tracking at high speed. She breaks rhythm and drives forward in a fierce counterattack; he gives ground, parrying. Roles reversed, they race laterally across the vast Tibetan stone terrace in nonstop exchange. Swords almost fully unreadable: dozens of fragmented streaks, brief glints, sparks. Feet never stop, bodies rotate, robes stream in Himalayan wind. Palace columns rush past as background parallax; the cloud ocean churns below the cliff. Final 0.5s: he throws a rapid diagonal attack; she intercepts and rotates straight into another counter.\nHARD CUT ON ACTION: both still in motion, swords mid-exchange.",
+   "models": [
+    "Midjourney",
+    "ChatGPT",
+    "Seedance 2.0"
+   ],
+   "prompt": "Image: Midjourney (Scene) + ChatGPT (Characters)\nVideo : Seedance 2.0\n\n15s ultra-cinematic wuxia sword duel\n\n[0:00–0:01] HIGH-SPEED COLLISION\nExtreme low-angle 24mm ground-skimming tracking shot, centimeters above ancient stone pavement. Burgundy warrior and white-robed swordswoman charge head-on at full sprint, neither decelerating. At the crossing point: CLANG—CLANG—CLANG, three exchanges inside one second, blades reduced to fragmented silver arcs and glints. Camera threads the gap between them.\n\n[0:01–0:03] CROSSING ATTACK → INSTANT PIVOT\nFast lateral tracking. Both pivot the moment they pass. He: reverse horizontal slash mid-turn. She: ducks under, simultaneous thrust to the ribs. He: downward blade rotation, deflects. She: converts the failed thrust into a rising diagonal cut. He: intercepts. 5–7 contacts in ~2s, zero pauses, overlapping silver trails.\n\n[0:03–0:05] SPIRAL CLOSE-QUARTERS EXCHANGE\n35mm medium close-up, rapid orbital arc. Extreme close measure.\nHe: horizontal slash → reverse slash → descending diagonal → immediate thrust.\nShe: parry → body rotation → deflection → low counter-slash → rising interception.\nOne unbroken flow. Blades vanish into blur and reappear only at contact. Sparks strictly on true blade impact. Robes wrap and twist under centrifugal force.\n\n[0:05–0:07] AERIAL PURSUIT\nShe leaps backward onto the next flight of the monumental staircase; he pursues instantly. Camera cranes up alongside. She strikes airborne, he blocks while ascending; multiple mid-air contacts. She completes one full aerial rotation into a descending diagonal strike; he intercepts and redirects it laterally. Near-simultaneous landing, attacking again before their footing settles.\n\n[0:07–0:09] ULTRA-FAST STAIRCASE DUEL\nLow-angle leading shot, pulling back rapidly up the stairs. Both sprint upward while fighting, never breaking stride. He attacks from alternating angles; she blocks in backward ascent. Near-invisible blades, streaks crossing frame: left → right → diagonal → vertical → thrust → deflection. 8–12 distinct sword actions in 2s, compressed into a barely readable storm of steel. Operator slightly behind the action: controlled vérité urgency.\n\n[0:09–0:11] WHIP-PAN BLADE STORM\n85mm telephoto compression, extreme close combat. Rapid whip-pans between inserts: hands on hilts, boots shifting footwork, twisting robes, eyes reading the opponent's shoulders, blades colliding. The lens cannot fully resolve every movement; several attacks land partly off-frame, so the duel outpaces the cinematography itself. Sword speed at near-visual limit. No supernatural energy waves, no large magical VFX: only steel, sparks, wind, fabric, kinetic force.\n\n[0:11–0:13] AGGRESSIVE COUNTERATTACK\nHe abruptly escalates into a relentless chain: horizontal slash, diagonal slash, reverse cut, thrust, low sweep, immediate overhead strike. She blocks everything while retreating fast down several steps. Frontal pull-back tracking on her; her expression stays intensely focused. He wears a subtle sinister smile mid-assault. Burgundy sleeves and long black hair whip through frame. Blades nearly indistinguishable; impacts become rapid rhythm: CLANG—CLANG—CLANG—CLANG\n\n[0:13–0:15] CONTINUOUS BLADE STOR\nNo climax explosion, no finishing move, no victory pose, no separation, no cut to black. The tempo climbs further.\nExtreme dynamic 35mm parallel tracking at high speed. She breaks rhythm and drives forward in a fierce counterattack; he gives ground, parrying. Roles reversed, they race laterally across the vast Tibetan stone terrace in nonstop exchange. Swords almost fully unreadable: dozens of fragmented streaks, brief glints, sparks. Feet never stop, bodies rotate, robes stream in Himalayan wind. Palace columns rush past as background parallax; the cloud ocean churns below the cliff. Final 0.5s: he throws a rapid diagonal attack; she intercepts and rotates straight into another counter.\nHARD CUT ON ACTION: both still in motion, swords mid-exchange.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/liluocheng13/status/2108737497660596254",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108737275509309440/vid/avc1/1280x720/8Fz2lxy8YzQqYVQK.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108737275509309440/vid/avc1/1280x720/8Fz2lxy8YzQqYVQK.mp4",
+   "preview_local": "media/2108737497660596254.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108737275509309440/img/TTUjS689ptefxhzx.jpg",
+   "cover_local": "covers/2108737497660596254.jpg",
+   "duration_s": 15,
+   "rank": 13
+  },
+  {
+   "id": "2108404878590857384",
+   "title": "载具变身机甲：公路上的变形秀",
+   "author_handle": "@laviniavelle",
+   "author_name": "Lavinia",
+   "created_at_bj": "2026-10-09 11:51",
+   "post_url": "https://x.com/laviniavelle/status/2108404878590857384",
+   "metrics": {
+    "likes": 234,
+    "reposts": 8,
+    "quotes": 1,
+    "bookmarks": 16,
+    "views": 15295,
+    "replies": 58
+   },
+   "heat_score": 784.3,
+   "visual_summary": "封面是低机位跟拍银白经典跑车驶离多车道城市高速，摩天楼与棕榈树夹道、蓝天白云；帖文称车辆将变形为巨型机甲等科幻场景。",
+   "post_text": "When machines stop driving and start fighting Vehicles transform into powerful futuristic robots creating an epic sci-fi world.\n\nMade with Seedance 2.5\n\nPrompt:\n\nA silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "A silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/laviniavelle/status/2108404878590857384",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108404551942623232/vid/avc1/1280x720/2cCocJ2fpFeg2TVP.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108404551942623232/vid/avc1/1280x720/2cCocJ2fpFeg2TVP.mp4",
+   "preview_local": "media/2108404878590857384.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108404551942623232/img/OY0Npo-wHnERSm7_.jpg",
+   "cover_local": "covers/2108404878590857384.jpg",
+   "duration_s": 30,
+   "rank": 14
+  },
+  {
+   "id": "2108609003357901011",
+   "title": "白西装女孩巷战：Kling 3.0 动作片",
+   "author_handle": "@TaliaAariz",
+   "author_name": "Talia",
+   "created_at_bj": "2026-10-10 01:22",
+   "post_url": "https://x.com/TaliaAariz/status/2108609003357901011",
+   "metrics": {
+    "likes": 221,
+    "reposts": 4,
+    "quotes": 0,
+    "bookmarks": 8,
+    "views": 4468,
+    "replies": 61
+   },
+   "heat_score": 704.5,
+   "visual_summary": "封面是夜间湿润小巷俯角：白西装背影迈步前行，远处三名黑衣人挡在卡车前，橙街灯与积水反光，纸箱堆叠，韩式动作惊悚开场。",
+   "post_text": "Never underestimate a woman who knows how to fight. One woman, a whole crew, and absolutely no fear. \n\nCreated with Kling 3.0 @anthum_ai\n\nPrompt:\n\nA cinematic, ultra-realistic action thriller set in a dimly lit urban alley at night, where a young woman with long, messy brown hair wearing a light-colored outfit confronts a group of men dressed in black near parked vehicles, delivery trucks, and scattered cardboard boxes. The scene begins with a dramatic low-angle tracking shot of her footsteps on the wet pavement as she walks confidently toward the men. Without warning, she launches into a fast-paced hand-to-hand fight, delivering powerful punches, spinning kicks, and swift evasive movements while the men attempt to attack her from different directions. Her hair and clothing move naturally with every strike, creating intense motion and realistic physical momentum. Use dynamic handheld camera movements, wide shots to capture the choreography, close-ups of determined facial expressions, occasional slow-motion impact moments, and smooth tracking shots that follow the action. Moody amber streetlights, deep shadows, wet asphalt reflections, subtle atmospheric haze, realistic skin textures, natural motion blur, dramatic cinematic color grading, high-contrast lighting, and detailed environmental textures create a gritty Korean action-film aesthetic. Maintain consistent character identity, anatomically accurate movements, believable fight choreography, and professional Hollywood-style cinematography in 4K, with a tense, suspenseful atmosphere throughout.",
+   "models": [
+    "Kling 3.0"
+   ],
+   "prompt": "A cinematic, ultra-realistic action thriller set in a dimly lit urban alley at night, where a young woman with long, messy brown hair wearing a light-colored outfit confronts a group of men dressed in black near parked vehicles, delivery trucks, and scattered cardboard boxes. The scene begins with a dramatic low-angle tracking shot of her footsteps on the wet pavement as she walks confidently toward the men. Without warning, she launches into a fast-paced hand-to-hand fight, delivering powerful punches, spinning kicks, and swift evasive movements while the men attempt to attack her from different directions. Her hair and clothing move naturally with every strike, creating intense motion and realistic physical momentum. Use dynamic handheld camera movements, wide shots to capture the choreography, close-ups of determined facial expressions, occasional slow-motion impact moments, and smooth tracking shots that follow the action. Moody amber streetlights, deep shadows, wet asphalt reflections, subtle atmospheric haze, realistic skin textures, natural motion blur, dramatic cinematic color grading, high-contrast lighting, and detailed environmental textures create a gritty Korean action-film aesthetic. Maintain consistent character identity, anatomically accurate movements, believable fight choreography, and professional Hollywood-style cinematography in 4K, with a tense, suspenseful atmosphere throughout.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/TaliaAariz/status/2108609003357901011",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108608946621526016/vid/avc1/960x960/jsjEPL6mGZQiwKna.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108608946621526016/vid/avc1/720x720/Bd4W-Z4U3YHkHK1r.mp4",
+   "preview_local": "media/2108609003357901011.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108608946621526016/img/Ka-_XlsAK-fmRZgZ.jpg",
+   "cover_local": "covers/2108609003357901011.jpg",
+   "duration_s": 15,
+   "rank": 15
+  },
+  {
+   "id": "2108843102417113181",
+   "title": "小猫骑士对巨龙：从对峙到拥抱",
+   "author_handle": "@LettyVesper",
+   "author_name": "Letty",
+   "created_at_bj": "2026-10-10 16:52",
+   "post_url": "https://x.com/LettyVesper/status/2108843102417113181",
+   "metrics": {
+    "likes": 192,
+    "reposts": 5,
+    "quotes": 0,
+    "bookmarks": 2,
+    "views": 784,
+    "replies": 4
+   },
+   "heat_score": 609.3,
+   "visual_summary": "封面是雾气草甸黄金时刻：披斗篷银甲的姜白小猫举剑仰望，对面黑鳞巨龙低首、橙眼与展翅逆光，史诗童话构图与毛发/鳞片细节。",
+   "post_text": "Tiny warrior, giant dragon, and an unexpected friendship.\n\nCreated with MiniMax H3 Fast\n\nPrompt:\n\nA cinematic, ultra-realistic fantasy scene featuring an adorable fluffy ginger-and-white kitten warrior wearing miniature silver medieval armor, a flowing cream-colored cape, and carrying a tiny sword, standing bravely in a misty green meadow facing a massive, fearsome dragon covered in dark, rugged scales, sharp horns, and powerful leathery wings. The camera captures dramatic low-angle shots, close-ups of the kitten gripping its sword, and intense shots of the dragon lowering its enormous head toward the tiny warrior. The kitten initially stands courageously, but as the dragon approaches, it becomes frightened and drops its sword, looking up with teary eyes and a trembling expression. Suddenly, the mood shifts from danger to tenderness as the dragon gently touches its snout against the kitten, revealing a surprising bond between them. The kitten embraces the dragon's enormous face affectionately, and the dragon closes its glowing amber eyes peacefully. Golden sunset light illuminates the meadow, creating a magical, emotional atmosphere with volumetric lighting, realistic fur and scales, detailed metallic armor, cinematic depth of field, smooth camera movements, dramatic wide shots, intimate close-ups, 4K photorealistic CGI, and an epic fantasy film aesthetic, transitioning from suspense and fear to warmth, friendship, and heartwarming emotional connection.",
+   "models": [
+    "MiniMax H3 Fast"
+   ],
+   "prompt": "A cinematic, ultra-realistic fantasy scene featuring an adorable fluffy ginger-and-white kitten warrior wearing miniature silver medieval armor, a flowing cream-colored cape, and carrying a tiny sword, standing bravely in a misty green meadow facing a massive, fearsome dragon covered in dark, rugged scales, sharp horns, and powerful leathery wings. The camera captures dramatic low-angle shots, close-ups of the kitten gripping its sword, and intense shots of the dragon lowering its enormous head toward the tiny warrior. The kitten initially stands courageously, but as the dragon approaches, it becomes frightened and drops its sword, looking up with teary eyes and a trembling expression. Suddenly, the mood shifts from danger to tenderness as the dragon gently touches its snout against the kitten, revealing a surprising bond between them. The kitten embraces the dragon's enormous face affectionately, and the dragon closes its glowing amber eyes peacefully. Golden sunset light illuminates the meadow, creating a magical, emotional atmosphere with volumetric lighting, realistic fur and scales, detailed metallic armor, cinematic depth of field, smooth camera movements, dramatic wide shots, intimate close-ups, 4K photorealistic CGI, and an epic fantasy film aesthetic, transitioning from suspense and fear to warmth, friendship, and heartwarming emotional connection.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/LettyVesper/status/2108843102417113181",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108839133988675584/vid/avc1/480x480/PjPch8JOVteHxKeK.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108839133988675584/vid/avc1/480x480/PjPch8JOVteHxKeK.mp4",
+   "preview_local": "media/2108843102417113181.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108839133988675584/img/STWktSaoPzSA0Q8r.jpg",
+   "cover_local": "covers/2108843102417113181.jpg",
+   "duration_s": 15,
+   "rank": 16
+  },
+  {
+   "id": "2108429890462876133",
+   "title": "魔幻海航：独木舟遇见巨兽与海豚",
+   "author_handle": "@Elvorya",
+   "author_name": "Elvorya",
+   "created_at_bj": "2026-10-09 13:30",
+   "post_url": "https://x.com/Elvorya/status/2108429890462876133",
+   "metrics": {
+    "likes": 164,
+    "reposts": 5,
+    "quotes": 1,
+    "bookmarks": 6,
+    "views": 7846,
+    "replies": 61
+   },
+   "heat_score": 538.8,
+   "visual_summary": "封面是高角度热带海景：带部落图腾三角帆的木制舷外独木舟驶向夕阳，青绿海水与白浪迹，远山岛屿，迪士尼式奇幻航海开场。",
+   "post_text": "An unforgettable journey through enchanted waters .🌊💎\n\nCreated on seedance 2.5\n\nPrompt:Create a 15-second photorealistic cinematic fantasy ocean adventure featuring traditional wooden sailing canoes, a breathtaking turquoise sea, playful dolphins, and a colossal magical sea creature.\n\nBegin with a wide cinematic establishing shot of a small traditional wooden sailing canoe gliding across a crystal-clear turquoise ocean at golden sunset, with distant tropical islands, glowing sunlight, and gentle waves → transition to a dynamic tracking shot revealing several beautifully crafted Polynesian-style wooden sailing canoes with tall woven sails and intricate tribal patterns, as adventurous young sailors navigate the sparkling water → cut to an exciting close-up as a magnificent dolphin suddenly leaps out of the ocean beside the canoe, its sleek body glistening with water droplets in the warm sunlight → transition to a dramatic wide-angle shot as an enormous mysterious sea creature emerges beneath the ocean surface, its gigantic translucent blue-green body glowing with bioluminescent patterns and shimmering iridescent scales → the colossal creature rises behind the sailing canoes, creating a towering turquoise wave that curls majestically across the horizon while sunlight refracts through its luminous body → cut to an overhead aerial shot of the tiny wooden canoes navigating through swirling currents as dolphins leap and swim alongside them, leaving trails of sparkling foam and magical blue light → transition to a breathtaking cinematic shot as luminous ocean currents spiral around the boats, creating glowing turquoise rings across the water while the gigantic sea creature glides gracefully beneath the surface → final shot becomes a spectacular wide-angle view of the traditional sailing canoes moving across the golden ocean at sunset, surrounded by playful dolphins and the enormous magical sea creature rising gracefully in the distance, with tropical islands silhouetted against the glowing horizon.\n\nVisual style: Ultra-photorealistic cinematic fantasy, vibrant turquoise water, golden-hour lighting, realistic ocean physics, detailed wooden boats, intricate woven sails, natural dolphin movements, translucent bioluminescent sea creature, volumetric sunlight, realistic water reflections, dynamic camera movement, smooth scene transitions, epic adventure atmosphere, rich cinematic colors, 4K detail, vertical 9:16 composition, exactly 15 seconds.\n\nNegative prompt:low resolution, plastic textures, unrealistic water, distorted boats, malformed dolphins, inconsistent creature design, flickering, jittery motion, excessive visual effects, oversaturated colors, text, subtitles, logos, watermarks.",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "Create a 15-second photorealistic cinematic fantasy ocean adventure featuring traditional wooden sailing canoes, a breathtaking turquoise sea, playful dolphins, and a colossal magical sea creature.\n\nBegin with a wide cinematic establishing shot of a small traditional wooden sailing canoe gliding across a crystal-clear turquoise ocean at golden sunset, with distant tropical islands, glowing sunlight, and gentle waves → transition to a dynamic tracking shot revealing several beautifully crafted Polynesian-style wooden sailing canoes with tall woven sails and intricate tribal patterns, as adventurous young sailors navigate the sparkling water → cut to an exciting close-up as a magnificent dolphin suddenly leaps out of the ocean beside the canoe, its sleek body glistening with water droplets in the warm sunlight → transition to a dramatic wide-angle shot as an enormous mysterious sea creature emerges beneath the ocean surface, its gigantic translucent blue-green body glowing with bioluminescent patterns and shimmering iridescent scales → the colossal creature rises behind the sailing canoes, creating a towering turquoise wave that curls majestically across the horizon while sunlight refracts through its luminous body → cut to an overhead aerial shot of the tiny wooden canoes navigating through swirling currents as dolphins leap and swim alongside them, leaving trails of sparkling foam and magical blue light → transition to a breathtaking cinematic shot as luminous ocean currents spiral around the boats, creating glowing turquoise rings across the water while the gigantic sea creature glides gracefully beneath the surface → final shot becomes a spectacular wide-angle view of the traditional sailing canoes moving across the golden ocean at sunset, surrounded by playful dolphins and the enormous magical sea creature rising gracefully in the distance, with tropical islands silhouetted against the glowing horizon.\n\nVisual style: Ultra-photorealistic cinematic fantasy, vibrant turquoise water, golden-hour lighting, realistic ocean physics, detailed wooden boats, intricate woven sails, natural dolphin movements, translucent bioluminescent sea creature, volumetric sunlight, realistic water reflections, dynamic camera movement, smooth scene transitions, epic adventure atmosphere, rich cinematic colors, 4K detail, vertical 9:16 composition, exactly 15 seconds.\n\nNegative prompt:low resolution, plastic textures, unrealistic water, distorted boats, malformed dolphins, inconsistent creature design, flickering, jittery motion, excessive visual effects, oversaturated colors, text, subtitles, logos, watermarks.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/Elvorya/status/2108429890462876133",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108429539697405952/vid/avc1/1280x720/31YZdlTTgSCNujqx.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108429539697405952/vid/avc1/1280x720/31YZdlTTgSCNujqx.mp4",
+   "preview_local": "media/2108429890462876133.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108429539697405952/img/IlDzZ4yYWeX_Bqjt.jpg",
+   "cover_local": "covers/2108429890462876133.jpg",
+   "duration_s": 15,
+   "rank": 17
+  },
+  {
+   "id": "2108983797395906915",
+   "title": "大力水手怒海战章鱼：动漫风暴戏",
+   "author_handle": "@TechieBySA",
+   "author_name": "TechieSA",
+   "created_at_bj": "2026-10-11 02:11",
+   "post_url": "https://x.com/TechieBySA/status/2108983797395906915",
+   "metrics": {
+    "likes": 130,
+    "reposts": 10,
+    "quotes": 0,
+    "bookmarks": 38,
+    "views": 4329,
+    "replies": 12
+   },
+   "heat_score": 521.5,
+   "visual_summary": "封面是船舱内大力水手近景：白帽烟斗、腮帮鼓胀、双耳冒烟，怒视镜头，背景碎木与木桶，现代动漫赛璐珞风格，预告海怪大战。",
+   "post_text": "The sea monster messed with the wrong sailor 🌊💪🏻\n\nMade with Seedance 2.5\n\nPrompt below👇🏻 https://t.co/cXg0QdFllF",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "\"Cinematic anime clip, 20 seconds. Open ocean midday — dark stormy sky, massive churning waves, lightning cracking, wind howling. Old wooden sailing ship — masts, ropes, heavy chains, wooden deck. Enormous ancient giant octopus creature rising from the depths — so massive it dwarfs everything, water cascading off its body. Ship getting progressively destroyed throughout.\nMAIN CHARACTER — SHORT STOCKY MALE WITH MASSIVELY OVERSIZED FOREARMS: Use uploaded character sheet. Toothpick always in corner of mouth. After hot sauce — face bright red, steam from both ears, forearms tripling. Uses everything on the ship as a weapon. Never backing down.\nGIANT OCTOPUS CREATURE: Use uploaded character sheet. Blue grey textured skin, massive round head, glowing orange eyes, eight enormous tentacles with large round suckers. Always attacking — slamming, wrapping, crushing. Recoils when hit but always comes back.\n0:00–0:02 — Two tentacles wrapped around hull, wood cracking. Main character grabbing broken mast swinging it like a baseball bat into first tentacle — recoiling. Spinning immediately into second. Ship lurching violently. 0:02–0:04 — Third tentacle slamming through the deck. Main character grabbing heavy chain, wrapping it around the stuck tentacle, planting both feet, pulling until tentacle tears free recoiling hard. 0:04–0:06 — Tentacle wrapping around main mast — cracking. Main character running up the cracking mast, grabbing the tentacle at the top, squeezing it from inside the grip until it cracks open. Mast snapping. Main character falling hard onto the deck. 0:06–0:07 — Main character on the destroyed deck. Pulling out hot sauce bottle. Chugging entire bottle in one go. Face bright red instantly. Steam blasting from both ears. Forearms tripling. 0:07–0:09 — Three tentacles simultaneously. Main character spinning heavy chain like a lasso — wrapping two tentacles together, yanking them into each other. Jumping, punching clean through the third mid air. Fist going completely through it. Landing on crumbling deck. 0:09–0:11 — Ship breaking apart. Main character riding debris across the waves, jumping over a sweeping tentacle, grabbing it mid jump, running along its top toward the creature's massive face. Creature thrashing trying to shake him off. 0:11–0:13 — Reaching the head. Rapid combinations directly into the creature's face — orange eyes flickering with each hit. Grabbing a tentacle trying to grab him, swinging himself to a better position, punching again immediately. 0:13–0:15 — Two tentacles wrapping around main character completely — squeezing hard. Straining, steam at maximum, slowly forcing them apart from the inside. Both releasing at once. Main character free above the ocean. 0:15–0:17 — Falling toward the creature's face — winding back the biggest punch of the entire video mid fall. Arm pulling back in enormous arc. Forearms at maximum. Creature's orange eyes going wide. 0:17–0:18 — Fist connecting at full force. Biggest shockwave of entire video — waves bending outward, storm clouds parting, lightning striking simultaneously. Creature lifting slightly then dropping — sinking fast, tentacles disappearing one by one. Orange eyes fading into dark water. 0:18–0:20 — Ocean calm. Ship debris floating. Main character on a piece of debris. Adjusting white cap. Fresh toothpick in mouth. Steam fading. Satisfied. Done.\nCel-shaded 3D anime, Unreal Engine quality, open ocean midday dark stormy sky churning waves lightning cracking throughout — old wooden sailing ship progressively destroyed masts ropes heavy chains used as weapons — bold flat color blocking, hard edge shadows, thick black outlines, vibrant saturated colors, film grain, massive orchestral score never dropping every tentacle impact splintering wood every punch enormous BOOM waves crashing building to final punch, camera switching constantly never same angle twice — wide from above, low angles from deck and ocean surface, medium side shots.\"",
+   "prompt_status": "作者回复公开",
+   "prompt_source": "https://x.com/TechieBySA/status/2108983803586703509",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108983744019230720/vid/avc1/1920x1080/fne2CD1tLIB9634r.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108983744019230720/vid/avc1/1280x720/PpVM0ErlN6kgoRqc.mp4",
+   "preview_local": "media/2108983797395906915.mp4",
+   "cover_url": "https://pbs.twimg.com/media/HUSdipRXEAA6O9R.jpg",
+   "cover_local": "covers/2108983797395906915.jpg",
+   "duration_s": 19,
+   "rank": 18
+  },
+  {
+   "id": "2108742072299880919",
+   "title": "冷静女教师 vs 走廊追杀：韩式动作喜剧",
+   "author_handle": "@Alina_with_Ai",
+   "author_name": "Alina Ai",
+   "created_at_bj": "2026-10-10 10:11",
+   "post_url": "https://x.com/Alina_with_Ai/status/2108742072299880919",
+   "metrics": {
+    "likes": 172,
+    "reposts": 36,
+    "quotes": 0,
+    "bookmarks": 51,
+    "views": 22368,
+    "replies": 54
+   },
+   "heat_score": 804.5,
+   "visual_summary": "封面是明亮学校走廊：香槟缎面无袖衫+黑皮短裙的眼镜女教师微笑侧身，身后虚化的尖叫男子从教室门口扑出，日光与薄荷绿墙形成反差喜剧张力。",
+   "post_text": "Straight out of a Hollywood blockbuster.\n\nMade with Seedance 2.5\n\nPrompt below ⤵️ https://t.co/OZ7DQuNytY",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "Prompt video 📷 \n..\n..\n\nYe lo is video ka Seedance prompt (~30 sec, 16:9):\n\n**Prompt:**\n\nCinematic live-action Korean action-comedy short, 16:9, realistic photographic look, bright natural daylight pouring through tall school-corridor windows, soft pastel sage-green and cream walls, pale blue classroom doors, polished grey floor with glossy reflections, slight film grain, smooth stabilized camera with quick punch-in cuts.\n\n**Main character:** A elegant Korean female teacher with a sleek black low bun, thin round gold-rimmed glasses, small pearl earrings, champagne satin sleeveless blouse, black leather pencil skirt, black sheer tights, black stiletto heels, carrying a navy hardcover book. She is always relaxed and gently smiling, never rushed, never out of breath.\n\n**Attackers:** A crowd of zombie-like students in navy tracksuits and dark uniforms, lurching, crawling and charging down the corridor with blank, snarling faces.\n\n**0–5s:** Teacher steps out of a classroom door, one hand holding the book, the other casually pushing a charging zombie student aside as he stumbles past. Cut to a close-up profile of her calm smile, glasses catching the light, classroom blurred behind. She raises one finger to her ear with a playful, relaxed gesture while students lie collapsed behind her.\n\n**5–12s:** Wide shot down the long corridor. A horde of dark-clad zombie students runs toward her while a few already crawl on the floor. She stands still, hugging the book at her side. One zombie lunges; she sidesteps and redirects him with a light palm push so he spins away. Another leans against the wall, dazed.\n\n**12–20s:** Low-angle shot of her stiletto heels: she kicks one zombie into a handstand-style flip, his body toppling in slow motion. Close-up of a zombie screaming, then her open palm gently stopping his face in the frame. Quick, elegant counters: wrist twist, hip toss, heel tap, all effortless.\n\n**20–25s:** Wide top-down corridor shot. The whole horde now lies sprawled across the floor in heaps, groaning. She walks back through the door, straightens her blouse, picks up her book from the desk and turns to the class with a warm smile. Subtitle-style line in her mouth: \"Now, where were we?\"\n\n**25–30s:** Classroom interior. Students in navy blazers sit at wooden desks, stunned and wide-eyed, a girl with a short black bob in front staring at the teacher. Close-up profile of the teacher in front of the green chalkboard, glasses reflecting window light, giving a calm, gentle, slightly mischievous smile. Slow push-in on her face to end.\n\n**Style notes:** Comedic contrast: calm, graceful teacher vs chaotic zombie horde. Fight moves are clean and light, no heavy contact. Subtle slow-motion on flips and kicks, then snap back to real speed. Sound: running footsteps, heel clicks, soft whooshes, a playful light jazz groove, quiet classroom ambience at the end.\n\n**Negative:** no text overlay, no watermark, no gore, no blood, no face distortion, no extra limbs, no cartoon look.\n\nChaho to isko 15s x 2 parts mein split kar dun, ya Hindi dialogue wali Indian school setting mein adapt kar dun?",
+   "prompt_status": "作者回复公开",
+   "prompt_source": "https://x.com/Alina_with_Ai/status/2108742076208996745",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108741606006497280/vid/avc1/1280x720/v6D0RzcHc4Q9Dx2V.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108741606006497280/vid/avc1/1280x720/v6D0RzcHc4Q9Dx2V.mp4",
+   "preview_local": "media/2108742072299880919.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108741606006497280/img/GYsgEXosEGbyXImP.jpg",
+   "cover_local": "covers/2108742072299880919.jpg",
+   "duration_s": 30,
+   "rank": 19
+  },
+  {
+   "id": "2108783755460853994",
+   "title": "宫殿换装走秀：巨型蓬裙布料物理",
+   "author_handle": "@Zoyavelle",
+   "author_name": "Zoya",
+   "created_at_bj": "2026-10-10 12:56",
+   "post_url": "https://x.com/Zoyavelle/status/2108783755460853994",
+   "metrics": {
+    "likes": 270,
+    "reposts": 6,
+    "quotes": 1,
+    "bookmarks": 14,
+    "views": 8218,
+    "replies": 32
+   },
+   "heat_score": 877.9,
+   "visual_summary": "封面是金色吊灯下的新古典舞厅：金发模特穿粉金蕾丝露肩巨型蓬裙正面站立，奶油色拱门与壁灯，布料层叠与晶体折射细节突出。",
+   "post_text": "Made with seedance 2.5\n\nPrompt:\n\nA stunning blonde fashion model gracefully walks and poses in a luxurious palace ballroom, wearing an enormous elegant princess ball gown. She gently holds both sides of her voluminous skirt and slowly turns, allowing the delicate embroidered fabric to flow naturally. The camera smoothly moves forward and captures her full body and the intricate details of the dress. Transition seamlessly between different luxurious gowns in pastel pink, icy blue, lavender, champagne gold, and black, with each dress appearing in a grand palace interior with elegant chandeliers and cinematic lighting. Realistic walking motion, natural fabric movement, graceful posing, smooth cinematic transitions, high-end couture fashion runway aesthetic, photorealistic details, stable camera, vertical 9:16 video.",
+   "models": [
+    "Seedance 2.5"
+   ],
+   "prompt": "A stunning blonde fashion model gracefully walks and poses in a luxurious palace ballroom, wearing an enormous elegant princess ball gown. She gently holds both sides of her voluminous skirt and slowly turns, allowing the delicate embroidered fabric to flow naturally. The camera smoothly moves forward and captures her full body and the intricate details of the dress. Transition seamlessly between different luxurious gowns in pastel pink, icy blue, lavender, champagne gold, and black, with each dress appearing in a grand palace interior with elegant chandeliers and cinematic lighting. Realistic walking motion, natural fabric movement, graceful posing, smooth cinematic transitions, high-end couture fashion runway aesthetic, photorealistic details, stable camera, vertical 9:16 video.",
+   "prompt_status": "帖子正文内公开",
+   "prompt_source": "https://x.com/Zoyavelle/status/2108783755460853994",
+   "mp4_url": "https://video.twimg.com/amplify_video/2108783705091383296/vid/avc1/720x1280/UAk7ectYdKym12D4.mp4",
+   "mp4_preview_url": "https://video.twimg.com/amplify_video/2108783705091383296/vid/avc1/720x1280/UAk7ectYdKym12D4.mp4",
+   "preview_local": "media/2108783755460853994.mp4",
+   "cover_url": "https://pbs.twimg.com/amplify_video_thumb/2108783705091383296/img/yNnfRU_rcqm1I_cC.jpg",
+   "cover_local": "covers/2108783755460853994.jpg",
+   "duration_s": 13,
+   "rank": 20
+  }
+ ]
+}
